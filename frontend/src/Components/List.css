@@ -1,0 +1,22 @@
+
+.list{
+    color:rgb(0, 0, 0);
+    display :flex;
+    justify-content:space-between ;
+    align-items:center;
+    margin-right:3em;
+    text-decoration:none;
+    /* box-shadow: 0 2px 4px 0 rgb(0,0,2);
+    overflow:hidden; */
+    
+}
+header{
+    position:sticky;
+    overflow: hidden;
+    top: 0;
+    width: 100%;
+} 
+/* .list navLink:hover {
+    background-color: rgb(132, 250, 232);
+    color: rgb(108, 245, 17);
+  } */
